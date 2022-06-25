@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- I'm **Claudia**  
+- My area of interest is **Operations Research**  
+- Working on gaining proficiency in `Python` and `R`  
 <!--
 **cdonahu/cdonahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
