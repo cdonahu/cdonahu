@@ -1,9 +1,13 @@
 ### Hi there 👋
 - I'm **Claudia**  
-- My area of interest is **Operations Research**  
-- Working on gaining proficiency in `Python` and `R`  
+- My areas of interest include  
+    - **Operations Research** (my actual job)
+    - Microeconomic decision making (parenting, education)  
+    - General aviation  
+    - Women in competitive sports  
+- Currently working on gaining proficiency in `Python` and `R`  
 <!--
-**cdonahu/cdonahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A file to set up my GitHub profile.
 
 Here are some ideas to get you started:
 
