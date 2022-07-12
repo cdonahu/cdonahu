@@ -1,10 +1,11 @@
 ### Hi there 👋
-- I'm **Claudia**  
+- I'm **Claudia** (she/her)  
 - My areas of interest include  
     - **Operations Research** (my actual job)
     - Microeconomic decision making (parenting, education)  
     - General aviation  
     - Women in competitive sports  
+    - Safe alternative transportation 🚲🏃🏻‍♀️🛹  
 - Currently working on gaining proficiency in `Python` and `R`  
 <!--
 **A file to set up my GitHub profile.
